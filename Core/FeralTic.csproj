@@ -110,7 +110,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SlimDX, Version=4.0.13.43">
-      <HintPath>..\Dependencies\x86\SlimDX.dll</HintPath>
+      <HintPath>..\..\dx11-vvvv\Dependencies\$(Platform)\SlimDX.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
